@@ -29,7 +29,6 @@
 
 ### Examples in java libraries:
 
-
 - javax.xml.parsers.DocumentBuilderFactory#newInstance()
 
 - javax.xml.transform.TransformerFactory#newInstance()
